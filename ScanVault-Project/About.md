@@ -71,7 +71,7 @@ The project is broken down into modular layers, each powered by a specific AWS s
 
 ---
 
-🧠 Powered by data. Built by [Komal Anand](www.linkedin.com/in/komal-anand-153630283)
+🧠 Powered by data. Built by KOMAL ANAND
 
 
 🌍 Explore ScanVault on GitHub [ScanVault Project on GitHub](https://github.com/Komal-Anand/ScanVault-Receipts-Project/tree/main/ScanVault-Project)
