@@ -123,7 +123,8 @@ This guide walks you through the full setup of a serverless receipt processing p
 <img width="1919" height="913" alt="Screenshot 2025-07-16 123709" src="https://github.com/user-attachments/assets/87b68920-a3c1-42f9-931c-cb3843137a56" />
 
 
-
+✍️ **Author**: *KOMAL ANAND*  
+📬 *Connect on [LinkedIn]www.linkedin.com/in/komal-anand-153630283*  
 
 
 
